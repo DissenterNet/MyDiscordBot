@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="098a69a0-c7ab-4e47-bc52-a810241a4610" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ADVbot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/active_projects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/availability.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/avatars/Meat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/avatars/Taco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/broken.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/donations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/inventories/dog.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/inventories/henry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/inventories/hot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/inventories/jerry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/inventories/jones.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/inventories/meat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/inventories/mike.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/inventories/sam.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/inventories/taco.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/overlaps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/projects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/recipes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/scavenge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/timezones.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/trade_proposals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backups/2025-02-26_00-55-36/data/values.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/availability.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/commands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/crafting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/disassemble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/group_projects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/honor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/management.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/rollplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/scavenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogs/trading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/active_projects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/availability.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/broken.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/donations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/inventories/Same.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/inventories/dog.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/inventories/henry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/inventories/hot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/inventories/jerry.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/inventories/jones.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/inventories/meat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/inventories/mike.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/inventories/sam.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/inventories/taco.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/overlaps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/recipes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/scavenge.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/timezones.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/trade_proposals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/values.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/inventory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/json_io.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cogs/session.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2sYuQTbcKGpGaElL996iSm1ECsw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Stev/Documents/Code/ADVbot",
+    "settings.editor.selected.configurable": "preferences.externalTools"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stev\PycharmProjects\ADVbot\data" />
+      <recent name="C:\Users\Stev\PycharmProjects\ADVbot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ADVbot" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="098a69a0-c7ab-4e47-bc52-a810241a4610" name="Changes" comment="" />
+      <created>1738644812941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738644812941</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

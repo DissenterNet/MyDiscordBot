@@ -1,0 +1,100 @@
+{
+    "1": {
+        "id": 1,
+        "type": "gravel_road",
+        "name": "Gravel Road",
+        "phases": [
+            {
+                "phase": "Gather Gravel",
+                "required": {
+                    "Gravel": 1
+                },
+                "contributed": {
+                    "Gravel": 0
+                }
+            },
+            {
+                "phase": "Lay Road",
+                "required": {
+                    "labor": 1
+                },
+                "contributed": {
+                    "labor": 0
+                }
+            }
+        ],
+        "current_phase_index": 0,
+        "status": "active",
+        "created_by": "1151299746657468486",
+        "reward": "Faster travel speed",
+        "contributors": {}
+    },
+    "2": {
+        "id": 2,
+        "type": "farmland",
+        "name": "Farmland",
+        "phases": [
+            {
+                "phase": "Clear Land",
+                "required": {
+                    "* Axe": 1,
+                    "labor": 100
+                },
+                "contributed": {
+                    "* Axe": 0,
+                    "labor": 0
+                }
+            },
+            {
+                "phase": "Plant Seeds",
+                "required": {
+                    "* Seeds": 50,
+                    "labor": 8
+                },
+                "contributed": {
+                    "* Seeds": 0,
+                    "labor": 0
+                }
+            }
+        ],
+        "current_phase_index": 0,
+        "status": "active",
+        "created_by": "1151299746657468486",
+        "reward": "Higher crop yield",
+        "contributors": {}
+    },
+    "3": {
+        "id": 3,
+        "type": "wooden_bridge",
+        "name": "Wooden Bridge",
+        "phases": [
+            {
+                "phase": "Gather Wood",
+                "required": {
+                    "* Planks": 250,
+                    "Nails": 2500
+                },
+                "contributed": {
+                    "* Planks": 0,
+                    "Nails": 0
+                }
+            },
+            {
+                "phase": "Assemble Bridge",
+                "required": {
+                    "labor": 500,
+                    "* Hammer": 1
+                },
+                "contributed": {
+                    "labor": 0,
+                    "* Hammer": 0
+                }
+            }
+        ],
+        "current_phase_index": 0,
+        "status": "active",
+        "created_by": "1151299746657468486",
+        "reward": "Allows crossing rivers safely",
+        "contributors": {}
+    }
+}

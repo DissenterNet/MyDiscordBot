@@ -1,0 +1,9 @@
+## Add your own data here and rename to config.json
+{
+    "TOKEN": "",
+    "EVENT_CHANNEL_ID": ,
+    "BOOKKEEPING_CHANNEL_ID": ,
+    "honorAdmins": [],
+    "authorized_users": [],
+    "admins": []
+}

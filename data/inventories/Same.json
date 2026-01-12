@@ -1,0 +1,18 @@
+{
+    "character_name": "",
+    "discord_name": "",
+    "total_xp": 0,
+    "total_gold": 0,
+    "items": {
+        "Guayusa": 1,
+        "Danburite": 1,
+        "Alder Branch": 1,
+        "Sycamore Branch": 1,
+        "Topaz": 1,
+        "Spruce Branch": 1
+    },
+    "active_crafting": null,
+    "active_scavenge": null,
+    "active_disassembling": null,
+    "active_labor": null
+}

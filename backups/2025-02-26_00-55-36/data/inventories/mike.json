@@ -1,0 +1,21 @@
+{
+    "character_name": "mike",
+    "discord_name": "dissenternet",
+    "user_id": 1151299746657468486,
+    "total_xp": 0,
+    "total_gold": 0,
+    "items": {
+        "Siltstone": 1,
+        "Danburite": 1,
+        "Jasper": 1,
+        "Spinel": 1,
+        "Tanzanite": 1,
+        "Willow Branch": 1,
+        "Antimony Ore": 1,
+        "Osmium Ore": 1
+    },
+    "active_crafting": null,
+    "active_scavenge": null,
+    "active_disassembling": null,
+    "active_labor": null
+}

@@ -1,0 +1,22 @@
+{
+    "character_name": "henry",
+    "discord_name": "dissenternet",
+    "user_id": 1151299746657468486,
+    "total_xp": 0,
+    "total_gold": 0,
+    "items": {
+        "Agate": 1,
+        "Rhodochrosite": 1,
+        "Carnelian": 1,
+        "Burdock Root": 1,
+        "Fossilized Stone": 1,
+        "Kyanite": 1,
+        "Elderwood Branch": 1,
+        "Sunstone": 1,
+        "Macassar Ebony Branch": 1
+    },
+    "active_crafting": null,
+    "active_scavenge": null,
+    "active_disassembling": null,
+    "active_labor": null
+}

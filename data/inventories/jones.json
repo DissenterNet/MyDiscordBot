@@ -1,0 +1,24 @@
+{
+    "character_name": "jones",
+    "discord_name": "dissenternet",
+    "user_id": 1151299746657468486,
+    "total_xp": 0,
+    "total_gold": 0,
+    "items": {
+        "Iron Ore": 1,
+        "Ash Log": 1,
+        "Agate": 1,
+        "Banded Agate": 1,
+        "Poplar Log": 1,
+        "Chrysocolla": 1,
+        "Chrysoberyl": 1,
+        "Rhodonite": 1,
+        "Bismuth Ore": 1,
+        "Cannabis": 1,
+        "Bauxite": 1
+    },
+    "active_crafting": null,
+    "active_scavenge": null,
+    "active_disassembling": null,
+    "active_labor": null
+}

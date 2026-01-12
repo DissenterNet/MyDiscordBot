@@ -1,0 +1,18 @@
+{
+    "taco": {
+        "items": {
+            "Slate": 1,
+            "Gravel": 104,
+            "Quartz": 1,
+            "Citrine": 1,
+            "Basil": 1,
+            "Raspberry": 1,
+            "Wood Planks": 5,
+            "Sycamore Branch": 1,
+            "Sage Root": 10,
+            "Dogwood Branch": 1,
+            "Siltstone": 1
+        },
+        "total_value": 135.314
+    }
+}

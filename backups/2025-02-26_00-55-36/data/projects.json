@@ -1,0 +1,28 @@
+{
+  "project_types": {
+    "gravel_road": {
+      "name": "Gravel Road",
+      "phases": [
+        { "phase": "Gather Gravel", "required": { "Gravel": 1 } },
+        { "phase": "Lay Road", "required": { "labor": 1 } }
+      ],
+      "reward": "Faster travel speed"
+    },
+    "farmland": {
+      "name": "Farmland",
+      "phases": [
+        { "phase": "Clear Land", "required": { "* Axe": 1, "labor": 100 } },
+        { "phase": "Plant Seeds", "required": { "* Seeds": 50, "labor": 8 } }
+      ],
+      "reward": "Higher crop yield"
+    },
+    "wooden_bridge": {
+      "name": "Wooden Bridge",
+      "phases": [
+        { "phase": "Gather Wood", "required": { "* Planks": 250, "Nails": 2500 } },
+        { "phase": "Assemble Bridge", "required": { "labor": 500, "* Hammer": 1 } }
+      ],
+      "reward": "Allows crossing rivers safely"
+    }
+  }
+}

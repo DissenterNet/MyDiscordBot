@@ -1,0 +1,26 @@
+{
+    "character_name": "sam",
+    "discord_name": "dissenternet",
+    "user_id": 1151299746657468486,
+    "total_xp": 0,
+    "total_gold": 0,
+    "items": {
+        "Serpentine": 1,
+        "Variscite": 1,
+        "Spinel": 1,
+        "Siltstone": 1,
+        "Pine Log": 1,
+        "Carnelian": 1,
+        "Zircon": 1,
+        "Nickel Ore": 1,
+        "Chalcedony": 1,
+        "Lapis Lazuli": 1,
+        "Olive Branch": 1,
+        "Burdock Root": 1,
+        "Elderwood Log": 1
+    },
+    "active_crafting": null,
+    "active_scavenge": null,
+    "active_disassembling": null,
+    "active_labor": null
+}

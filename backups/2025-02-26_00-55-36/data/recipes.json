@@ -1,0 +1,105 @@
+{
+  "fiber processing": {
+    "Cordage": {
+      "components": {
+        "* Material": 100
+      },
+      "time": 240,
+      "disassemble": 1,
+      "outputs": [
+        { "item": "Cordage", "quantity": 50 }
+      ]
+    },
+    "Rope 50ft": {
+      "components": {
+        "Cordage": 250
+      },
+      "requires": ["*"],
+      "time": 120,
+      "disassemble": 1,
+      "outputs": [
+        { "item": "Rope 50ft", "quantity": 1 }
+      ]
+    }
+  },
+  "stone_processing": {
+    "Stone Axe": {
+      "components": {
+        "Rock": 1,
+        "* Branch": 1,
+        "Cordage": 5
+      },
+      "requires": ["* Knife"],
+      "time": 60,
+      "disassemble": 1,
+      "outputs": [
+        { "item": "Stone Axe", "quantity": 1 }
+      ]
+    },
+    "Stone Knife": {
+      "components": {
+        "Rock": 1,
+        "* Branch": 1,
+        "Cordage": 5
+      },
+      "requires": ["*"],
+      "time": 60,
+      "disassemble": 1,
+            "outputs": [
+        { "item": "Stone Knife", "quantity": 1 }
+      ]
+    }
+  },
+  "wood_processing": {
+    "Wood Planks": {
+      "components": ["* Log"],
+      "requires": ["* Axe"],
+      "time": 120,
+      "disassemble": 0,
+      "outputs": [
+        { "item": "Wood Planks", "quantity": 4 },
+        { "item": "Fibrous Material", "quantity": 5 }
+      ]
+    },
+    "Wooden Beams": {
+      "components": {
+        "* Log": 1
+      },
+      "requires": ["* Axe"],
+      "time": 120,
+      "outputs": [
+        { "item": "Wooden Beams", "quantity": 1 },
+        { "item": "Fibrous Material", "quantity": 5 }
+      ]
+    }
+  },
+  "tool_crafting": {
+    "Wooden Mallet": {
+      "components": {
+        "* Branch": 1,
+        "* Log": 1
+      },
+      "requires": ["* Knife", "* Sword", "* Axe"],
+      "time": 30,
+      "disassemble": 0
+    }
+  },
+  "construction": {
+    "Cabin Frame": {
+      "components": {
+        "Wooden Beams": 10,
+        "Wood Planks": 20
+      },
+      "requires": ["Workbench"],
+      "time": 1
+    },
+    "Cabin Wall": {
+      "components": {
+        "Wood Planks": 8,
+        "Mortar": 4
+      },
+      "requires": ["Workbench"],
+      "time": 1
+    }
+  }
+}
